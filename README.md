@@ -1,2 +1,2 @@
 # hello-world
-aprendendo e trocando ideas
+joomfranco:aprendendo GitHub e trocando ideas
